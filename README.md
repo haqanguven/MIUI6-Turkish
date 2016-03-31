@@ -1,3 +1,3 @@
 # Miui Turkish Team
 # Developer
-# Miui version: 6.3.24
+# Miui version: 5.11.7
