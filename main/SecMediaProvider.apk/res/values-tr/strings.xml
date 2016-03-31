@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="uid_label">Medya</string>
+    <string name="app_label">Medya depolama</string>
+    <string name="upgrade_msg">Medya veritabanını yükseltme</string>
+    <string name="artist_label">Sanatçı</string>
+    <string name="drm_licensed_message">Zil sesi veya bildirim uyarı gibi Drm korumalı içeriği ayarlamak için açılamıyor</string>
+</resources>

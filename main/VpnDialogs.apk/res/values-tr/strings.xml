@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s Vpn bağlantısı oluşturmak için çalışır</string>
+    <string name="warning">Devam ederek tüm ağ trafiğini yakalaması için uygulama izni veriyoruz <b>Uygulamaya güvenmediğiniz sürece kabul etmeyin</b>" Otherwise, you run the risk of having your data compromised by a malicious software. "</string>
+    <string name="accept">Ben bu uygulamaya güveniyorum</string>
+    <string name="legacy_title">Vpn bağlandığında</string>
+    <string name="configure">Yapılandırma</string>
+    <string name="disconnect">Bağlantıyı kes</string>
+    <string name="session">Oturum:</string>
+    <string name="duration">Süre:</string>
+    <string name="data_transmitted">Gönderilen:</string>
+    <string name="data_received">Alınan:</string>
+    <string name="data_value_format">%1$s bayt / %2$s paket</string>
+</resources>

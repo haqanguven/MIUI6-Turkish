@@ -1,0 +1,9 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ağ konumu</string>
+    <string name="location_warning_title">Konum onayı</string>
+    <string name="location_warning_message">Googlenin konum hizmeti bilinmeyen konum verilerini toplamasına izin ver. Hiçbir uygulamanın çalışmadığı zamanlarda bile veri toplanır</string>
+    <string name="agree">Kabul ediyorum</string>
+    <string name="disagree">Kabul etmiyorum</string>
+</resources>

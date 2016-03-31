@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wssyncmlnps</string>
+    <string name="system_group_my_contacts">Kişilerim</string>
+    <string name="system_group_friend">Arkadaşlar</string>
+    <string name="system_group_family">Aile</string>
+    <string name="system_group_coworker">İş arkadaşları</string>
+</resources>

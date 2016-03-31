@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_gallery_size_choices">
+        <item>Large</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="pref_gallery_size_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_choices">
+        <item>Newest first</item>
+        <item>Newest last</item>
+    </string-array>
+    <string-array name="pref_gallery_sort_values">
+        <item>descending</item>
+        <item>ascending</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_choices">
+        <item>2 seconds</item>
+        <item>3 seconds</item>
+        <item>4 seconds</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_interval_values">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_choices">
+        <item>Fade in &amp;amp; out</item>
+        <item>Slide left - right</item>
+        <item>Slide up - down</item>
+        <item>Random selection</item>
+    </string-array>
+    <string-array name="pref_gallery_slideshow_transition_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="v5_debug_theme_type">
+        <item>BLACK</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+        <item>RED</item>
+    </string-array>
+    <string-array name="v5_app_control_sort_by">
+        <item>按消耗排序</item>
+        <item>按节省排序</item>
+        <item>按名称排序</item>
+    </string-array>
+    <string-array name="v5_app_control_compression_level">
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>
+        <item>不节省</item>
+    </string-array>
+    <string-array name="v5_seekbar_compression_level">
+        <item>低</item>
+        <item>中</item>
+        <item>高</item>
+    </string-array>
+    <string-array name="v5_seekbar_traffic_alert_level">
+        <item>0%</item>
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+    </string-array>
+    <string-array name="span_type_array">
+        <item>按日</item>
+        <item>按月</item>
+    </string-array>
+    <string-array name="v5_compress_level_desc">
+        <item>不压缩: 不节省流量，保持图片原有质量</item>
+        <item>低：保留较高图片画质，节省流量较少</item>
+        <item>中：保持图片清晰，节省流量适中</item>
+        <item>高：图片高压缩，最大限度节省流量</item>
+    </string-array>
+    <array name="save_prediction_drawables">
+        <item>@drawable/v5_save_prediction_ring_1</item>
+        <item>@drawable/v5_save_prediction_ring_2</item>
+        <item>@drawable/v5_save_prediction_ring_3</item>
+        <item>@drawable/v5_save_prediction_ring_4</item>
+    </array>
+    <array name="v5_apps_control_switch_all">
+        <item>@drawable/v5_app_control_connected_1</item>
+        <item>@drawable/v5_app_control_connected_2</item>
+        <item>@drawable/v5_app_control_disconnected_2</item>
+        <item>@drawable/v5_app_control_disconnected_1</item>
+    </array>
+</resources>

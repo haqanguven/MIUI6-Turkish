@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ok">Tamam</string>
+    <string name="unknown_error">Bilinmeyen hata</string>
+    <string name="processing">İşleniyor</string>
+    <string name="license_not_found">Lisans bulunamadı</string>
+    <string name="license_expired">Lisans süresi doldu</string>
+    <string name="domain_not_found">Böyle bir etki</string>
+    <string name="dev_cert_revoked">Cihazınız sertifikası iptal edildi. Servis sağlayıcınıza başvurun</string>
+    <string name="server_invalid_message">Geçersiz sunucu mesajı var</string>
+    <string name="server_internal_error">Sunucu bazı iç sorunlar yaşıyor. Lütfen sonra tekrar deneyin</string>
+    <string name="server_service_specific">Sunucu hizmeti belirli bir konu</string>
+    <string name="server_domain_required">Içeriği oynatmak için etki alanına katılın</string>
+    <string name="server_not_a_member">Bu etki alanı artık geçerli değildir. Etki bırakmak için tamam a tıklayınız</string>
+    <string name="server_unknown_account_id">Lisans alma için kullanılan hesabın id müşteri servisini yetkili değildir</string>
+    <string name="server_device_limit_reached">Zaten bu etki 5 cihazda katıldı. Yeni bir katılma için mevcut cihazların herhangi birini kaldırın</string>
+    <string name="server_protocol_version_mismatch">Cihazınız eski protokol sürümünü kullanıyor. Güncellemek için servis sağlayıcınıza başvurun</string>
+    <string name="server_protocol_redirect">Sunucu protokol yönlendirildi</string>
+    <string name="license_acquisition_success">Lisans alma başarılı. İçerik indirmeye başlamak için tamam a tıklayın</string>
+    <string name="license_acquisition_fail">Lisans alma başarısız oldu</string>
+    <string name="join_domain_success">Katılım etkisi başarılı. Şimdi medyayı oynatmaya çalışın</string>
+    <string name="join_domain_fail">Etki cihazı katılamadı</string>
+    <string name="leave_domain_success">Aygıt başarıyla kaldırıldı</string>
+    <string name="leave_domain_fail">Etki aygıtı kaldırma başarısız oldu</string>
+    <string name="metering_success">Ölçüm verileri başarıyla gönderildi</string>
+    <string name="metering_fail">Ölçüm verilerini bildirmek için başarısız oldu</string>
+    <string name="not_supported">Başlatıcı desteklemiyor</string>
+</resources>

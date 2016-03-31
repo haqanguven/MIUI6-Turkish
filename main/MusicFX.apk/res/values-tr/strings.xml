@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MüzikFx</string>
+    <string name="no_effects">Efek mevcut değil</string>
+    <string name="main_toggle_effects_title">Ses efekti</string>
+    <string name="eq_dialog_title">Ekolayzer</string>
+    <string name="headset_plug">Bu etkilerin için kulaklık takın</string>
+    <string name="bass_boost_strength">Bas arttırma</string>
+    <string name="virtualizer_strength">3D efek</string>
+    <string name="pr_title">Yankı:</string>
+    <string name="pr_summary">Ek oda yankılanma etkisi</string>
+    <string name="pr_dialog_title">Yankı ön ayar</string>
+    <string name="setup">Kur</string>
+    <string name="ci_extreme">Fx yükseltici</string>
+    <string name="user">Kullanıcı</string>
+    <string name="picker_title">Müzik efek kontrol paneli</string>
+</resources>

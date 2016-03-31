@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Ağ konumu</string>
+    <string name="location_warning_title">Konum onayı</string>
+    <string name="location_warning_message">Otomatik konum hizmetinin anonim konum verileri toplamak için izin verin. Bazı veriler cihazınızda depolanabilir ve uygulama çalışırken bile oluşabilir. Uygulanabilir veri kullanım ücretleri bu işlem sırasında geçerli olabilir</string>
+    <string name="agree">Kabul et</string>
+    <string name="disagree">Reddet</string>
+</resources>

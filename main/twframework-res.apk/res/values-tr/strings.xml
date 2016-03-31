@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status_bar_clear_all_button">Bildirimleri temizle</string>
+    <string name="status_bar_no_notifications_title">Bildirimler yok</string>
+    <string name="status_bar_ongoing_events_title">Devam eden</string>
+    <string name="status_bar_latest_events_title">Bildirimler</string>
+    <string name="indicator_wifi">Wifi</string>
+    <string name="indicator_bt">Bluetooth</string>
+    <string name="indicator_vibration">Titreşim</string>
+    <string name="indicator_sound">Sessiz</string>
+    <string name="quickpanel_mute">Sustur</string>
+    <string name="quickpanel_speaker">Hoparlör</string>
+    <string name="quickpanel_end">Son</string>
+    <string name="ticker_voicerecord">Vr cesaret testi</string>
+    <string name="ticker_call">Arama cesaret testi</string>
+    <string name="ticker_radio">Radyo cesaret testi</string>
+    <string name="ticker_music">Müzik cesaret testi</string>
+    <string name="quickpanel_retreive">Alma</string>
+    <string name="no_missed_event">Cevapsız olay yok</string>
+    <string name="phone_format">%1$s dan %2$s kaçırılmış arama</string>
+    <string name="mms_format">%1$s dan %2$s yeni mesaj var</string>
+    <string name="schedule_format">%s cevapsız</string>
+    <string name="multi_format">%1$d cevapsız arama, %2$d yeni mesaj, %3$d cevapsız olay</string>
+    <string name="quickpanel_save">Kaydet</string>
+    <string name="quickpanel_rec">Kayıt</string>
+    <string name="quickpanel_pause">Duraklat</string>
+    <string name="quickpanel_paused">Duraklat</string>
+    <string name="quickpanel_standby">Beklemede</string>
+    <string name="indicator_gps">Gps</string>
+    <string name="indicator_rotation_lock">Döndürme</string>
+    <string name="indicator_orientation">"Otomatik
+döndürme"</string>
+    <string name="quick_settings_error">Hata</string>
+    <string name="status_bar_ongoing_text_call">Arama</string>
+    <string name="phone_m_format">%d cevapsız aramalarınız var</string>
+    <string name="mms_m_format">%d yeni mesajınız var</string>
+    <string name="tw_clipboard_title_text">Pano</string>
+    <string name="tw_clipboard_edit">Düzenle</string>
+    <string name="tw_clipboard_done">Bitti</string>
+    <string name="tw_clipboard_save">Kaydet</string>
+    <string name="tw_clipboard_no_item">Öğeler yok</string>
+    <string name="tw_ids_com_header_clipboard_options">Pano seçenekleri</string>
+    <string name="tw_ids_com_body_delete_from_clipboard">Panodan silme</string>
+    <string name="tw_ids_com_body_Lock_in_clipboard">Panoyu kilitle</string>
+    <string name="tw_ids_com_body_unlock_in_clipboard">Pano kilidini aç</string>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s albüm silinsin mi? (Toplam %2$s)</item>
+        <item quantity="one">%1$s albüm silinsin mi? (Toplam: %2$s)</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">" "&lt;Data> Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraf &lt;font color=#323232>&lt;b>silinsin mi&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraf &lt;font color=#323232>&lt;b>silinsin mi&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s fotoğraf silinsin mi?</item>
+        <item quantity="one">%s fotoğraf silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">" "&lt;Data> Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> adet video &lt;font color=#323232>&lt;b>silinsin mi&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> adet video &lt;font color=#323232>&lt;b>silinsin mi&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s video silinsin mi?</item>
+        <item quantity="one">%s video silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" "&lt;Data> Cihazdaki ve buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraf &lt;font color=#323232>&lt;b>silinecek&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Cihazdaki ve buluttaki &lt;xliff:g id=ITEM>%s&lt;/xliff:g> fotoğraf &lt;font color=#323232>&lt;b>silinecek&lt;/b>&lt;/font>?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">" "&lt;Data> &lt;xliff:g id=ITEM>%s&lt;/xliff:g> adet videoyu bu cihazdan ve Mi buluttan silinsin mi?"&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> &lt;xliff:g id=ITEM>%s&lt;/xliff:g> adet videoyu bu cihazdan ve Mi buluttan silinsin mi?"&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> Toplam %2$d albümden &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> silinsin mi?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Toplam %2$d albümden &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> silinsin mi?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="zero">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fotoğraf</item>
+        <item quantity="one">%d fotoğraf</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d klasör</item>
+        <item quantity="one">%d klasör</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">%d dosya için silme izniniz yok</item>
+        <item quantity="one">%d dosya için silme izniniz yok</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">%d öğe seçebilir</item>
+        <item quantity="one">%d öğe seçebilir</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="zero">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="zero">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s yeni yüz aynı zamanda şu kişiye de ait olabilir; %2$s >></item>
+        <item quantity="one">%1$s yeni yüz aynı zamanda şu kişiye de ait olabilir; %2$s >></item>
+    </plurals>
+</resources>

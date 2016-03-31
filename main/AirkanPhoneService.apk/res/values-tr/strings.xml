@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rcs_app_name">Uzaktan kumanda hizmeti</string>
+    <string name="rcs_phoneact_name">Uzaktan kumanda telefon yöneticisi</string>
+    <string name="rcs_service_start">Uzaktan kumanda telefon servisi başladı</string>
+    <string name="app_name">Airkan telefon</string>
+    <string name="phoneact_name">Airkan telefon yöneticisi</string>
+    <string name="mdnssdact_name">mDNSSD dinleyici yöneticisi</string>
+    <string name="service_start">Airkan telefon servisi başladı</string>
+    <string name="listenservice_start">mDNSSD dinleyici servisi başladı</string>
+</resources>

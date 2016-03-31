@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Son %d gün</item>
+        <item quantity="one">Dün</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d arasında %2$d</item>
+        <item quantity="one">1 eşleşme</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d eşleşme</item>
+        <item quantity="one">%d eşleşme</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d öğe engellendi</item>
+        <item quantity="one">%d öğe engellendi</item>
+    </plurals>
+</resources>

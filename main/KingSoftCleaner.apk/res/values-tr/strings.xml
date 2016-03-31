@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cheetah mobil temizlik ustası Sdk</string>
+    <string name="browser_scan_history_desc">Tarayıcı geçmişi</string>
+    <string name="browser_search_history_desc">Aranan öğeler</string>
+    <string name="call_log">Arama kaydı</string>
+    <string name="clip_board_history_desc">Kopyalanan veya kesilen içerikler</string>
+    <string name="clipboard">Pano</string>
+    <string name="phone_search">Google arama</string>
+    <string name="privacy_appdata_chrome_history_des">Ziyaret ettiğiniz internet siteleri</string>
+    <string name="search_history">Arama geçmişi</string>
+    <string name="sms">Mesaj veya multimedya</string>
+</resources>

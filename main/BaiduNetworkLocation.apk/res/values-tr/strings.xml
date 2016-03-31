@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ağ konumu</string>
+    <string name="app_label">Ağ konumu</string>
+    <string name="location_warning_title">Konum onayı</string>
+    <string name="location_warning_title_first">Hemen</string>
+    <string name="location_warning_title_close">Hemen</string>
+    <string name="location_warning_message">"Googlenin konum hizmeti bilinmeyen konum verilerini toplamasına izin ver
+Hiçbir uygulamanın çalışmadığı zamanlarda bile veri toplanır
+
+"</string>
+    <string name="location_close_warning_message">Bulmak mümkün olacak. Uygulama ağ konum hizmetlerinden bu bölümünü kapatabilirsiniz</string>
+    <string name="location_first_warning_message">Size daha iyi bir kullanıcı deneyimi sunmak için sistem ağ konumu hizmeti açılacaktır</string>
+    <string name="location_warning_title_1">Konum bilgilerini kaydetmek için anlaştık</string>
+    <string name="location_warning_title_first_1">Konum bilgilerini kaydetmek için anlaştık</string>
+    <string name="location_warning_title_close_1">Konum bilgilerini kaydetmek için anlaştık</string>
+    <string name="location_warning_message_1">Baidu konum hizmeti anonim konum verileri toplamak için izin verin. Sistem cihazınızda depolanan verilerin bir parçası olabilir. Cihazınız herhangi bir uygulamayı çalıştırmamış olmasa bile servis gibi verileri toplayacak. Verilerin toplanması bazı trafik maliyetlerine neden olacaktır</string>
+    <string name="always_wifi_scan_tip_tittle">Daima taramaya izin ver</string>
+    <string name="always_wifi_scan_tip_content">Wifi kapalı olsa bile ağ konum tabanlı servisler ve uygulamalara izin verir</string>
+    <string name="agree">Kabul ediyorum</string>
+    <string name="disagree">Kabul etmiyorum</string>
+    <string name="close_agree">Kabul et</string>
+    <string name="close_disagree">Reddet</string>
+    <string name="sanxing">124i</string>
+    <string name="changhong">nl1036</string>
+</resources>

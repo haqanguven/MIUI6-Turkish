@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clear_keyguard_wallpaper">Temizle</string>
+    <string name="wallpaper_accessibility_name">Duvarkağıdı: %1$d / %2$d</string>
+    <string name="announce_selection">%1$s seçildi</string>
+    <string name="wallpaper_delete">Sil</string>
+    <string name="pick_image">Resim seç</string>
+    <string name="pick_wallpaper">Duvar kağıtları</string>
+    <string name="activity_not_found">Uygulama yüklü değil</string>
+    <string name="lockscreen_wallpaper_instructions">Kilit ekranı duvar kağıdını ayarla</string>
+    <string name="image_decode_error">Görsel çözümlenemiyor</string>
+    <string name="crop_wallpaper">Duvar kağıdını kırp</string>
+    <string name="wallpaper_instructions">Duvar kağıdını ayarla</string>
+    <string name="wallpaper_load_fail">Resim duvar kağıdı olarak yüklenemedi</string>
+</resources>

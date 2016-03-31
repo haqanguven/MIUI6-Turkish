@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Boyut</item>
+        <item>Adı</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Boyut</item>
+        <item>Adı</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Sık kullanılan</item>
+        <item>Boyut</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Her gün</item>
+        <item>3 günde bir</item>
+        <item>7 günde bir</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 Mb</item>
+        <item>300 Mb</item>
+        <item>500 Mb</item>
+        <item>1 Gb</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Bildirim ile sor</item>
+        <item>Arkaplanda temizle</item>
+        <item>Temizledikten sonra bildirim görüntüle</item>
+    </string-array>
+</resources>

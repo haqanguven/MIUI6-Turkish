@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cube_ptr_pull_down">Aşağı çek</string>
+    <string name="cube_ptr_pull_down_to_refresh">Yenilemek için aşağı çekin</string>
+    <string name="cube_ptr_release_to_refresh">Yenilemek için bırakın</string>
+    <string name="cube_ptr_refreshing">Güncelleniyor</string>
+    <string name="cube_ptr_refresh_complete">Güncellendi</string>
+    <string name="cube_ptr_last_update">Son güncelleme: </string>
+    <string name="cube_ptr_seconds_ago"> saniye önce</string>
+    <string name="cube_ptr_minutes_ago">dakika önce</string>
+    <string name="cube_ptr_hours_ago">saat önce</string>
+    <string name="app_name">Xiaomi vip</string>
+    <string name="level">Seviye</string>
+    <string name="level_exp_value" formatted="false">%d/%d</string>
+    <string name="level_detail">Günlük görev sınırı: %d</string>
+    <string name="action">Gör</string>
+    <string name="task">Görevler</string>
+    <string name="today_task">Bugünün görevleri</string>
+    <string name="today_task_format" formatted="false">%d/%d</string>
+    <string name="passive_task">Pasif görevler</string>
+    <string name="task_score">%d puan</string>
+    <string name="task_ongoing">Devam eden</string>
+    <string name="task_done">Son</string>
+    <string name="task_start">Başlat</string>
+    <string name="task_take_award">Ödül al</string>
+    <string name="query_user_tasks_fail">Görev bilgisi alınamıyor</string>
+    <string name="my_award">Ödüllerim</string>
+    <string name="validity">%s tarihinde sona eriyor</string>
+    <string name="expired">Süresi doldu</string>
+    <string name="award_time">%s toplanmıştır</string>
+    <string name="no_award">Ödül yok</string>
+    <string name="query_level_fail">Bilgi alınamadı</string>
+    <string name="award_taken">Puan toplandı</string>
+    <string name="task_begin">Devam ediyor</string>
+    <string name="in_progress">İstek gönderiliyor</string>
+    <string name="privilege">Ayrıcalıklı</string>
+    <string name="promote">Yukarı seviye</string>
+    <string name="level_info_format" formatted="false">"Seviye %d %d/%d
+%s"</string>
+    <string name="no_network">Ağa bağlanılamadı</string>
+    <string name="task_limit">Bu gün için görev yok. Yarın görüşürüz</string>
+    <string name="no_task">Tüm görevler tamamlanmış</string>
+    <string name="fail_reach_server">Sunucuya bağlanamıyor</string>
+    <string name="no_app">İlk önce uygulamayı yükleyin</string>
+    <string name="use">Kullan</string>
+    <string name="already_used">Kullanılmış</string>
+    <string name="unlimited_task">Özel görevler</string>
+    <string name="take_awarded_package">Takma isim</string>
+    <string name="awarded_package_is_expired">Süresi doldu</string>
+    <string name="awarded_package_was_redeemed">Kurtarıldı</string>
+    <string name="take_awarded_package_failed">Hediye kurtarılamadı. Bir ya da iki dakika bekleyin ve yeniden deneyin</string>
+    <string name="invalid_json">Tepki geçersiz</string>
+    <string name="task_select_title">Görev seç</string>
+    <string name="task_not_completed">Tamamlanmamış</string>
+    <string name="task_completed">Tamamlandı</string>
+    <string name="exp_buff">+%%%s deneyim</string>
+    <string name="upgraded">Yukarı seviye</string>
+    <string name="experience">Uzman</string>
+    <string name="giveup">Vazgeç</string>
+</resources>

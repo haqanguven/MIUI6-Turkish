@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>Yeni ay</item>
+        <item>Yeni ay</item>
+        <item>İlk dördün</item>
+        <item>Hilal</item>
+        <item>Dolunay</item>
+        <item>Solan kambur ay</item>
+        <item>Son dördün</item>
+        <item>Yeni ay</item>
+        <item>Karanlık ay</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Güneşli</item>
+        <item>Bulutlu</item>
+        <item>Kapalı</item>
+        <item>Sisli</item>
+        <item>Yoğun yağmur fırtınası</item>
+        <item>Sağanak</item>
+        <item>Sağanak</item>
+        <item>Gök gürültülü sağanak</item>
+        <item>Hafif yağışlı</item>
+        <item>Yoğun sağanak</item>
+        <item>Hafif yağmurlu</item>
+        <item>Hafif Yağmur</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Karlı</item>
+        <item>Yoğun karlı</item>
+        <item>Hafif karlı</item>
+        <item>Hafif Karlı</item>
+        <item>Şiddetli kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Toz</item>
+        <item>Sisli</item>
+        <item>Dondurucu yağmur</item>
+        <item>Veri yok</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Çok zayıf</item>
+        <item>Zayıf</item>
+        <item>Orta</item>
+        <item>Güçlü</item>
+        <item>En güçlü</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Rüzgar K</item>
+        <item>Rüzgar KD</item>
+        <item>Rüzgar D</item>
+        <item>Rüzgar GD</item>
+        <item>Rüzgar G</item>
+        <item>Rüzgar GB</item>
+        <item>Rüzgar B</item>
+        <item>Rüzgar KB</item>
+    </string-array>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lisans ayarları</string>
+    <string name="license_settings_title">Lisans ayarları</string>
+    <string name="expiry_reminder">Bitiş hatırlatma</string>
+    <string name="roaming_network">Dolaşım şebekesi</string>
+    <string name="roaming_network_summary">Otomatik indirme</string>
+    <string name="roaming_option_auto_download">Otomatik indirme</string>
+    <string name="roaming_option_manual">El ile</string>
+    <string name="roaming_option_always_reject">Her zaman reddet</string>
+    <string name="roaming_network_dialog_title">Dolaşım şebekesi</string>
+    <string name="dialog_cancel_button">İptal et</string>
+    <string name="dialog_ok_button">Tamam</string>
+    <string name="dialog_deregistration_button">Tamam</string>
+    <string name="dialog_registration_button">Tamam</string>
+    <string name="dialog_cancel_registration_button">İptal et</string>
+    <string name="dialog_ok_registration_button">Tamam</string>
+    <string name="expiry_reminder_summary">Otomatik indirme</string>
+    <string name="divx_registration_summary">DivX kayıt işlemi</string>
+    <string name="clear_license">Lisansları temizle</string>
+    <string name="clear_license_summary">Tüm Drm lisansları sil</string>
+    <string name="unable_to_remove_license">Lisansları temizlemek için açılamıyor</string>
+    <string name="all_licenses_are_clearing">Temizleniyor</string>
+    <string name="all_licenses_are_removed">Temizlendi</string>
+    <string name="clear_license_popup">"Bunları kullanmak istiyorsanız lisans gerektirir. 
+Lisanslarını silmek istiyor musunuz?"</string>
+    <string name="divx_vod">DivX® Vod</string>
+    <string name="divx_registration">Kayıt ol</string>
+    <string name="divx_deregistration">Kayıtı sil</string>
+    <string name="divx_registration_info">DivX® korumalı videoları oynatmak için cihazınızı kayıt ettirmeniz gerekir</string>
+    <string name="divx_registration_code">Kayıt kodu: %1$s</string>
+    <string name="divx_register_website">Kayıt %1$s</string>
+    <string name="divx_deregistration_code">Kayıt silme kodu: %1$s</string>
+    <string name="divx_deregister_website">Kayıt silme %1$s</string>
+    <string name="divx_deregistration_info">Kaydı ile devam edilsin mi?</string>
+    <string name="dialog_deregister_confirmation_message">Cihazınız zaten kayıtlı. Kayıtı silmek istediğinizden emin misiniz?</string>
+</resources>

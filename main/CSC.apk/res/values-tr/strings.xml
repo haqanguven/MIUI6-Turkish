@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jp_calendar_name">İyi günler</string>
+    <string name="simServiceTitle">Sim hizmeti</string>
+    <string name="app_name">Csc</string>
+    <string name="start_service">Hizmeti başlat</string>
+    <string name="stop_service">Hizmeti durdur</string>
+    <string name="update_browser">Tarayıcı güncelleme</string>
+    <string name="SALES_CODE_OXA">Oxa</string>
+    <string name="SNS_SERVER_URL_OXA">https://snsgw.samsungmobile.com:443/</string>
+    <string name="SNS_HTTP_USER_AGENT_OXA">GT-N7000</string>
+    <string name="SNS_APPLICATION_KEY_OXA">86fbef0c74794ba3bd37e6217b10c9333c3b5ded5f714863</string>
+    <string name="SALES_CODE_KOR">KOR</string>
+    <string name="SNS_SERVER_URL_KOR">https://snsgw.samsungmobile.com:443/</string>
+    <string name="SNS_HTTP_USER_AGENT_KOR">GT-N7000</string>
+    <string name="SNS_APPLICATION_KEY_KOR">86fbef0c74794ba3bd37e6217b10c9333c3b5ded5f714863</string>
+    <string name="e_manual_bookmark_name">Kullanıcı el ile</string>
+</resources>
