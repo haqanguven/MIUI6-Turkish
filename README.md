@@ -1,3 +1,2 @@
-# Miui Turkish Team
-# Developer
-# Miui version: 5.11.7
+# MIUITR Team
+# https://forum.miuitr.info/
